@@ -1,0 +1,15 @@
+{
+  "originHash" : "66ac3ae3b34307d1d0f2c67b8eafcd34105f7dcefad7cd366ca657b490767092",
+  "pins" : [
+    {
+      "identity" : "tweenkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SteveBarnegren/TweenKit.git",
+      "state" : {
+        "revision" : "a852bf49aec855202592a0fda385b6cdc3135627",
+        "version" : "1.0.3"
+      }
+    }
+  ],
+  "version" : 3
+}
